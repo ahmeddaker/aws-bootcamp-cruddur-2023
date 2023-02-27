@@ -12,6 +12,12 @@ aws --version
 ```
 ![aws_cli](https://user-images.githubusercontent.com/19940969/220439572-2a5ddde0-c554-4b62-bc68-5556e9a58b8a.png)
 
+Adding AWS account varables to the environment
+'''
+aws sts get-caller-identity
+'''
+![image](https://user-images.githubusercontent.com/19940969/221543051-887d4e8e-3e1c-4921-ac64-ca482c03f624.png)
+
 already have a budget
 ![budget](https://user-images.githubusercontent.com/19940969/220439684-f97afe16-2734-4719-b7a9-459cc9259234.png)
 
