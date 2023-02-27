@@ -17,7 +17,7 @@ Adding AWS account varables to the environment
 aws sts get-caller-identity
 ```
 
-![proof of aws cli](assets/proof%20of%20aws.png)
+![proof of aws cli](assets/proof-of-aws.png)
 
 already have a budget
 ![budget](https://user-images.githubusercontent.com/19940969/220439684-f97afe16-2734-4719-b7a9-459cc9259234.png)
